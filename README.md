@@ -7,6 +7,14 @@ It automatically detects whether workers are wearing **Personal Protective Equip
 
 ---
 
+
+## 🎥 Demo
+
+Here’s a quick look at the system in action 👇
+
+![Demo](assets/test.gif)
+
+---
 ## 🎯 Project Objective
 
 To enhance workplace safety by leveraging **computer vision** to:
@@ -86,13 +94,7 @@ pip install ultralytics opencv-python cvzone
 python ppe_detection.py
 ```
 
----
 
-## 🎥 Demo
-
-Here’s a quick look at the system in action 👇
-
-![Demo](assets/test.gif)
 
 ---
 
